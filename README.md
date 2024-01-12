@@ -3,6 +3,8 @@
 🌱 I’m currently learning python
 
 📫 How to reach me: silverion626@gmail.com
+
+:video_game:
 <!--
 **Dplatina/Dplatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
